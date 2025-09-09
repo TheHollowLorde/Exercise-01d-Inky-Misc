@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Benjamin Hornberger
 
-# Your Github username
+# TheHollowLorde
